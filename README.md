@@ -1,0 +1,2 @@
+# Behavioral Recommender System
+### The idea behind this project was to tap into the subconscious behaviour of a user based on his/her ad-click pattern without knowing the actual traits of the user as a human being. We wanted to grasp the power of internet that converts to a cyclical behavior for many users from social media ads, online campaigns, promotions etc. This was, in turn, used to recommend ads to a user for increasing the click through rate. For data, check out: https://www.kaggle.com/c/outbrain-click-prediction
